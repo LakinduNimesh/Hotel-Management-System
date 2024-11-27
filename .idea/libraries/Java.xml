@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Java">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../../Program Files/Java" />
+      <root url="jar://$PROJECT_DIR$/../../ajavaJar/mysql-connector-j-9.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../ajavaJar/rs2xml.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../ajavaJar/rs2xml.jar!/src" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../../Program Files/Java" recursive="false" />
+  </library>
+</component>
