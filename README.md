@@ -3,6 +3,9 @@
 ## 📌 Overview
 The **Hotel Management System** is a Java-based application designed to streamline hotel operations, including room booking, customer management, and billing. This project follows an **Object-Oriented Programming (OOP)** approach and integrates **MySQL** for data management.
 
+![image](https://github.com/user-attachments/assets/ef16e64e-252c-4bc3-949d-ae96a99c07fb)
+
+
 ## 🚀 Features
 - **Room Booking & Management** 🏨
 - **Customer Check-in & Check-out** 🛎️
